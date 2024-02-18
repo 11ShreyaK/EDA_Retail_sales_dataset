@@ -7,7 +7,7 @@
 <h4>The dataset (`retail_sales_dataset.csv`) is also provided. It includes information such as date, product details, sales quantities, and customer information. Make sure to download or provide your own dataset in the same format.</h4>
 
 <h2>Analysis</h2>
-<h4>The main analysis is presented in the retail_sales_eda.ipynb Jupyter Notebook. It covers key aspects of the retail sales dataset, including data cleaning, exploratory visualizations, and statistical insights.</h4>
+<h4>The main analysis is presented in the EDA_Retail_sales_dataset.ipynb Jupyter Notebook. It covers key aspects of the retail sales dataset, including data cleaning, exploratory visualizations, and statistical insights.</h4>
 
 <h2>Results</h2>
 <h4>Summarize the main findings and insights obtained from the analysis. Include visualizations and key takeaways that can be useful for stakeholders or decision-makers.</h4>
